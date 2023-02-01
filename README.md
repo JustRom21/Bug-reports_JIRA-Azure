@@ -1,4 +1,4 @@
 ## Bug-reports examples
 Примеры баг-репортов, заведенных в системах JIRA и AzureDevops
-- [AzureDevops](https://drive.google.com/file/d/13O1EU-iCa0srM7MEz2U6Stp6nhh7TFrt/view?usp=sharing)
-- [JIRA](https://drive.google.com/file/d/1NG81EmbvgfBZlDusOgIHHBv4Q1vkhZVE/view?usp=sharing)
+- [AzureDevops](https://drive.google.com/drive/folders/1ZQ2zR1JBstuR8f6qqhR_-hOTXf4De6Df?usp=share_link)
+- [JIRA](https://drive.google.com/drive/folders/1QZSvHz10ca_PEXC4pxnMtZoqoTSgBSn3?usp=share_link)
